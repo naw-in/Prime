@@ -1,0 +1,9 @@
+C:\Projects\Prime\Prime\Prime\Prime.Tests\bin\Debug\Prime.Tests.dll
+C:\Projects\Prime\Prime\Prime\Prime.Tests\bin\Debug\Prime.Tests.pdb
+C:\Projects\Prime\Prime\Prime\Prime.Tests\bin\Debug\nunit.framework.dll
+C:\Projects\Prime\Prime\Prime\Prime.Tests\bin\Debug\Prime.exe
+C:\Projects\Prime\Prime\Prime\Prime.Tests\bin\Debug\Prime.pdb
+C:\Projects\Prime\Prime\Prime\Prime.Tests\bin\Debug\nunit.framework.xml
+C:\Projects\Prime\Prime\Prime\Prime.Tests\obj\Debug\Prime.Tests.csprojResolveAssemblyReference.cache
+C:\Projects\Prime\Prime\Prime\Prime.Tests\obj\Debug\Prime.Tests.dll
+C:\Projects\Prime\Prime\Prime\Prime.Tests\obj\Debug\Prime.Tests.pdb

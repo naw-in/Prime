@@ -1,0 +1,5 @@
+C:\Projects\Prime\Prime\Prime\Prime\bin\Debug\Prime.exe.config
+C:\Projects\Prime\Prime\Prime\Prime\bin\Debug\Prime.exe
+C:\Projects\Prime\Prime\Prime\Prime\bin\Debug\Prime.pdb
+C:\Projects\Prime\Prime\Prime\Prime\obj\Debug\Prime.exe
+C:\Projects\Prime\Prime\Prime\Prime\obj\Debug\Prime.pdb
